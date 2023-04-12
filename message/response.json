@@ -1,0 +1,14 @@
+{
+  "wait": "*_Tunggu Sebentar o(〃＾▽＾〃)o_*",
+  "error": {
+    "Iv": "Link yang kamu berikan tidak valid",
+    "api": "Maaf terjadi kesalahan"
+  },
+  "OnlyGrup": "Perintah ini hanya bisa digunakan di dalam grup",
+  "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+  "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+  "BotAdmin": "Bot nya aja bukan admin (￣へ ￣ 凸",
+  "OnlyOwner": "Lu Bukan Pemilik Bot (•ˋ _ ˊ•)",
+  "OnlyPrem": "Lu Ga Premium Bodo ⋌༼ •̀ ⌂ •́ ༽⋋", 
+  "joinGroup": "Sewa Bot? Ketik #Owner"
+}
